@@ -23,6 +23,14 @@
                                     <item name="onRequire" xsi:type="boolean">true</item>
                                 </item>
                             </item>
+
+                            <!-- Mixin for mage/mage -->
+                            <item name="mageMixin" xsi:type="array">
+                                <item name="path" xsi:type="string">Swissup_BreezeExamples/js/mage-mixin</item>
+                                <item name="mixins" xsi:type="array">
+                                    <item name="mage" xsi:type="string">breeze-main</item>
+                                </item>
+                            </item>
                         </item>
                     </item>
                 </argument>
