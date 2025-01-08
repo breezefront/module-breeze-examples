@@ -12,7 +12,7 @@
                                 <item name="path" xsi:type="string">Swissup_BreezeExamples/js/input-mask</item>
                                 <item name="load" xsi:type="array">
                                     <item name="onReveal" xsi:type="array">
-                                        <item name="form-create-account" xsi:type="string">.form-create-account</item>
+                                        <item name="phone" xsi:type="string">#telephone</item>
                                     </item>
                                 </item>
                             </item>

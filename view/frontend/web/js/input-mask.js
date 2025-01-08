@@ -4,7 +4,7 @@ define([
     'use strict';
 
     $(document).on('breeze:load', () => {
-        var input = $('.form-create-account #firstname');
+        var input = $('#telephone');
 
         if (!input.length) {
             return;
